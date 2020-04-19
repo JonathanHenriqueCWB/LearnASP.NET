@@ -1,0 +1,8 @@
+C:\Users\Jony\source\repos\ContosoCrafts\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Jony\source\repos\ContosoCrafts\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jony\source\repos\ContosoCrafts\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jony\source\repos\ContosoCrafts\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\Jony\source\repos\ContosoCrafts\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Jony\source\repos\ContosoCrafts\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Jony\source\repos\ContosoCrafts\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jony\source\repos\ContosoCrafts\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
